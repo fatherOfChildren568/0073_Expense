@@ -10,7 +10,7 @@ public class ExpenseView {
         this.header = header;
     }
 
-    //setBody
+    //setBody 
     public void setBody(String body) {
         this.body = body;
     }
