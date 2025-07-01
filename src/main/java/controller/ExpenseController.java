@@ -43,7 +43,7 @@ public class ExpenseController {
         expenseView.setHeader(Message.HEADER_LIST_EXPENSES);
         // set body
         expenseView.setBody(sb.toString());
-        // display
+        // display list
         expenseView.display();
     }
 
