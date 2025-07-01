@@ -17,7 +17,7 @@ public class Validator {
         return input > 0;
     }
 
-    //check string is empty?
+    //check string is empty
     public static boolean isValidString(String input) {
         return !input.trim().isEmpty();
     }
