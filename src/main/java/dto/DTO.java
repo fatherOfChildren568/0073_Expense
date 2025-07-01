@@ -7,7 +7,7 @@ public class DTO {
     private double money;
     private String content;
 
-    // constructor no parameter
+    // constructor no parameters
     public DTO() {
     }
 
