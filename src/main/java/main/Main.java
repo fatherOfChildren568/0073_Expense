@@ -58,7 +58,7 @@ public class Main {
                         expenseController.addExpense();
                         autoId++;
                         break;
-                    // display all expense
+                    // display all expenses
                     case 2:
                         expenseController.displayAllExpense();
                         break;
