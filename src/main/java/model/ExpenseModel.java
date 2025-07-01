@@ -11,7 +11,7 @@ public class ExpenseModel {
     public ExpenseModel() {
     }
 
-    // constructor have parameter
+    // constructor have parameters
     public ExpenseModel(int id, String date, double money, String content) {
         this.id = id;
         this.date = date;
